@@ -20,7 +20,7 @@ Overall, it was a surreal experience, and we look forward to many such challenge
 
 # Live deployed URL
 
-[Nordstrom Rack Netlify Link](https://lustrous-eclair-2f1c6d.netlify.app/index.html)
+[Nordstrom Rack Netlify Link](https://ubiquitous-bombolone-749678.netlify.app/)
 
 
 
